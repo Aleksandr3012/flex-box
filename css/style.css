@@ -22,15 +22,15 @@ img {
 }
 
 body {
-    /*height: 100%;*/
-    max-width: 1965px;
-    max-height: 1051px;
+    height: 100%;
+    /*max-width: 1965px;*/
+    /*max-height: 1051px;*/
     background-color: #000000;
     /*margin: auto;*/
 }
 
 .flex-container {
-    margin-top: 100px;
+    margin-top: 150px;
     display: flex;
     align-items: flex-end;
     justify-content: center;
@@ -52,6 +52,8 @@ body {
     font-size: 24px;
     font-weight: 400;
     order: 2;
+    margin-left: 103px;
+    margin-right: 139px;
 }
 
 
