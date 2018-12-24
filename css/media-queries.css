@@ -1,0 +1,15 @@
+
+
+
+@media screen and (min-width: 480px) and (max-width: 767px){
+    .flex-container a.facebook {
+        order: 2;
+    }
+    .flex-container p {
+        order: 3;
+    }
+
+    .flex-container a.logo {
+        order: 1;
+    }
+}
